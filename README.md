@@ -47,6 +47,7 @@ Qualification
 Employment Type
 
 ⚙️ Methodology
+
 ✅ 1. Data Collection
 
 Web scraping using Python & BeautifulSoup
@@ -83,9 +84,6 @@ Keyword mapping
 
 Rule-based text classification
 
-⚠ Note:
-This project does NOT use NLP models or machine learning-based text processing.
-All text extraction is performed via rule-based logic.
 
 ✅ 5. High-Cardinality Reduction
 
